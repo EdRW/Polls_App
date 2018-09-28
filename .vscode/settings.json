@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\Ed\\Miniconda3\\envs\\DjangoTut\\python.exe",
+
+    "terminal.integrated.shellArgs.windows": ["/K","C:\\Users\\Ed\\Miniconda3\\Scripts\\activate.bat C:\\Users\\Ed\\Miniconda3"]
+}
